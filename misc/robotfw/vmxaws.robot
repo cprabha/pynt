@@ -14,7 +14,7 @@ ${intf_per_subnet}	${25}
 ${vmx_if_cnt}	${3}
 ${vmx_subnet_cnt}	${4}
 ${key_name}	smk_vmx_aws_svl
-${lic}	/home/regress/dev/etc/VMXPRM40G.txt
+${lic}	/home/regress/dev/etc/VMX_DEMO_Jan_18
 #@{inst_types}  m4.xlarge	m4.2xlarge	m4.4xlarge	m4.10xlarge	c3.2xlarge	c3.4xlarge	c3.8xlarge	c4.2xlarge	c4.4xlarge	c4.8xlarge
 @{inst_types}   m4.xlarge   m4.2xlarge
 
