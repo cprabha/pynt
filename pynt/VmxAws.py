@@ -754,7 +754,7 @@ class Vmx(NT):
     configured with direct management IP
     """
     license_path = "../misc/aws"
-    licenses = {"bw_20G":      "VMXPRM40G.txt",
+    licenses = {"bw_20G":      "VMX_DEMO_Jan_18",
                     "feat_premium":  "E418396532.lic",
     }
     license_bundle = ["bw_20G", "feat_premium"]
